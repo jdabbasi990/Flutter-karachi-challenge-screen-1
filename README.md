@@ -1,8 +1,7 @@
 # challenge_screen1
 
-A new Flutter project.
-
-## Getting Started
+I am new to flutter and I created this project just by waching the image provided by Flutter karachi team.
+## Youtube Clone UI
 
 This project is a starting point for a Flutter application.
 

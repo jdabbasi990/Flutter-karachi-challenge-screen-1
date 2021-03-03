@@ -5,10 +5,12 @@ I am new to flutter and I created this project just by waching the image provide
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I have used reusable widgets and t:
 
-- Lab: Write your first Flutter app
-- Cookbook: Useful Flutter samples
+- Used Reusable widgets
+
+## Installation process just clone the repo and copy the images and lib folder to your project
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,

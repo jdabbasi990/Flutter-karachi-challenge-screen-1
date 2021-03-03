@@ -5,7 +5,7 @@ I am new to flutter and I created this project just by waching the image provide
 
 This project is a starting point for a Flutter application.
 
-I have used reusable widgets and t:
+I have used reusable widgets:
 
 - Used Reusable widgets.
 - List view for scrolling.
